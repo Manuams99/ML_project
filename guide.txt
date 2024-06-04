@@ -1,0 +1,7 @@
+Step to follow
+1- Define the tree of repository
+2- Add the important files to the repo
+3- First commit 
+4- Setup the virtual environment
+5- Let's code our api
+6- 
