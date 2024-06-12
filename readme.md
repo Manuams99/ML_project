@@ -10,7 +10,7 @@ To get started with this project, follow the steps below:
 1. **Clone the repository**:
 
     ```
-    git remote add origin https://github.com/Manuams99/ML_project.git
+    git clone https://github.com/Manuams99/ML_project.git
     
     ```
 
@@ -42,7 +42,7 @@ To get started with this project, follow the steps below:
 To start the FastAPI server, use the following command:
 
 ```sh
-uvicorn src.api:app --reload
+uvicorn src.api:app
 
 ### Running the streamlit app
 
